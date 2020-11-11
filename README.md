@@ -6,7 +6,7 @@ Napište program, který bude fungovat jako seznam objednávek v restauraci. Ka�
 
 První úkol je vytvoření tříd, které budou schopné uložit dané data. Můžete přidat i nějaké vlastní.
 
-Napište několik analytických metod:
+Jako druhý úkol napište několik analytických metod:
 - Ukažtě počet objednávek
 - Spočítejte celkovou cenu útraty
 - Na základě jména položky spočítejte celkový prodej dané položky
